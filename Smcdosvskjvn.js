@@ -5,6 +5,7 @@
 // @downloadURL  https://storage.googleapis.com/bcclaimer/StakeCodeClaimer.user.js
 // @updateURL    https://storage.googleapis.com/bcclaimer/StakeCodeClaimer.user.js
 // @description  Stake Code Claimer
+// @author       XxX
 // @include       /^https?:\/\/[^/]*stake[^/]*\/.*$/
 // @exclude      https://stakecodeclaimer.com/*
 // @exclude      https://stake.us/*
