@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name         Stake Code Claimer
 // @namespace    http://www.stakecodeclaimer.com/
